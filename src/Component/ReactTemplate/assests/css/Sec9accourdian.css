@@ -1,0 +1,14 @@
+.accordion {
+    --bs-accordion-border-color: none !important;
+    --bs-accordion-active-bg: none !important;
+}
+.accordion-item {
+   border-bottom: 1px solid rgba(0, 0, 0, 0.247) !important;
+}
+.accordion-button:hover {
+    color: #e03a3c;
+}
+.accordion-button:not(.collapsed) {
+    color: #e03a3c !important;
+   
+}

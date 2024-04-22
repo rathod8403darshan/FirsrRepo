@@ -1,0 +1,10 @@
+
+#btntop{
+    background: #e03a3c;
+    border: #e03a3c;
+    transition: all 0.3s ease-in-out;
+}
+#btntop:hover{
+    background-color: transparent;
+   outline: 1px solid #e03a3c;
+}
